@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "original-document-control",
+      "supporting-document-package",
+      "plan-document-rules",
+      "naupa-report",
+      "irs-notice-cp-1099-letter-auto-response-drafter"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "original-document-control",
+        "title": "Original document control",
+        "originalPath": "/features/original-document-control"
+      },
+      {
+        "id": "supporting-document-package",
+        "title": "Supporting document package",
+        "originalPath": "/features/supporting-document-package"
+      },
+      {
+        "id": "plan-document-rules",
+        "title": "Plan document rules",
+        "originalPath": "/features/plan-document-rules"
+      },
+      {
+        "id": "naupa-report",
+        "title": "NAUPA Report Generation",
+        "originalPath": "/features/naupa-report"
+      },
+      {
+        "id": "irs-notice-cp-1099-letter-auto-response-drafter",
+        "title": "irs notice cp 1099 letter auto response drafter",
+        "originalPath": "/features/irs-notice-cp-1099-letter-auto-response-drafter"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "producer-permit-registry",
+      "product-formula-registry",
+      "production-lot-tracking",
+      "statute-deadline-monitoring",
+      "drawback-claim-preparation",
+      "agency-query-workflow",
+      "product-market-analytics",
+      "store-developer-agreement-library",
+      "application-sku-registry",
+      "transaction-ingestion",
+      "subscription-ingestion",
+      "subscription-rate-transition",
+      "withholding-calculation",
+      "app-territory-analytics",
+      "asset-register-ingestion",
+      "disposed-asset-removal",
+      "asset-class-mapping",
+      "functional-obsolescence",
+      "economic-obsolescence",
+      "exemption-qualification",
+      "rendition-preparation",
+      "jurisdiction-asset-analytics",
+      "entity-vat-profile",
+      "partial-deductibility-calculation",
+      "domestic-registration-exclusion",
+      "minimum-claim-threshold",
+      "filing-deadline-monitoring",
+      "portal-claim-preparation",
+      "country-category-analytics",
+      "jurisdiction-incentive-library",
+      "production-entity-registry",
+      "financing-source-treatment",
+      "minimum-spend-threshold",
+      "application-package",
+      "certificate-tracking",
+      "production-jurisdiction-analytics",
+      "bonus-depreciation-calculation",
+      "repair-versus-capital-determination",
+      "retirement-disposal-tracking",
+      "amended-return-support",
+      "entity-jurisdiction-registry",
+      "vehicle-equipment-master",
+      "fuel-card-ingestion",
+      "bulk-fuel-receipt-ingestion",
+      "asset-assignment",
+      "form-preparation",
+      "fleet-jurisdiction-analytics",
+      "employer-location-registry",
+      "employee-wage-ingestion",
+      "qualified-wage-calculation",
+      "form-amendment-preparation",
+      "program-location-analytics",
+      "entity-and-jurisdiction-registry",
+      "agency-notice-intake",
+      "experience-rating-calculation",
+      "multi-state-allocation-review",
+      "penalty-and-interest-recalculation",
+      "agency-response-package",
+      "plan-provision-library",
+      "compensation-averaging",
+      "benefit-formula-calculation",
+      "beneficiary-entitlement",
+      "life-status-monitoring",
+      "cola-calculation",
+      "workers-compensation-offset",
+      "recoupment-plan-workflow",
+      "plan-liability-analytics",
+      "parcel-registry",
+      "assessment-ingestion",
+      "filing-calendar",
+      "comparable-adjustments",
+      "income-approach",
+      "intangible-separation",
+      "application-prep",
+      "hearing-workbench",
+      "portfolio-analytics",
+      "qualify-check",
+      "expense-map",
+      "participant-vesting-ingestion",
+      "forfeiture-recognition",
+      "restoration-obligation",
+      "forfeiture-account-ledger",
+      "contribution-offset-calculation",
+      "participant-reallocation",
+      "year-end-deadline-monitoring",
+      "correction-calculation",
+      "plan-forfeiture-analytics",
+      "customer-registry",
+      "collection-portal",
+      "jurisdiction-rules",
+      "transaction-coverage",
+      "exposure-calculation",
+      "renewal-management",
+      "override-governance",
+      "use-location-determination",
+      "exemption-mapping",
+      "manufacturing-exemption",
+      "resale-exemption",
+      "entity-jurisdiction-analytics",
+      "building-project-registry",
+      "reference-standard-mapping",
+      "efficiency-threshold-calculation",
+      "deduction-calculation",
+      "return-workpaper-generation",
+      "entity-filing-group-registry",
+      "state-rule-library",
+      "property-factor-calculation",
+      "market-based-sourcing",
+      "throwback-throwout-rules",
+      "nol-vintage-ledger",
+      "limitation-expiration-calculation",
+      "amended-return-opportunity",
+      "state-entity-analytics",
+      "jurisdiction-mapping",
+      "federal-usf-calculation",
+      "state-usf-calculation",
+      "internet-access-exemption",
+      "overcharge-calculation",
+      "service-jurisdiction-analytics",
+      "source-ingestion",
+      "owner-normalization",
+      "jurisdiction",
+      "dormancy",
+      "exemptions",
+      "owner-response",
+      "historical-exposure",
+      "ma-successor",
+      "voluntary-disclosure",
+      "investor-beneficial-owner-registry",
+      "custodian-account-mapping",
+      "treaty-rate-library",
+      "statutory-treaty-calculation",
+      "market-filing-deadlines",
+      "custodian-submission-workflow",
+      "country-custodian-analytics",
+      "portfolio",
+      "defi",
+      "cpa-accountant-review-workflow",
+      "chat",
+      "k1-intake-review",
+      "advice"
+    ],
+    "ai": true,
+    "representativeId": "producer-permit-registry",
+    "description": "One assistant for 141 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "producer-permit-registry",
+        "title": "Producer permit registry",
+        "originalPath": "/features/producer-permit-registry"
+      },
+      {
+        "id": "product-formula-registry",
+        "title": "Product formula registry",
+        "originalPath": "/features/product-formula-registry"
+      },
+      {
+        "id": "production-lot-tracking",
+        "title": "Production lot tracking",
+        "originalPath": "/features/production-lot-tracking"
+      },
+      {
+        "id": "statute-deadline-monitoring",
+        "title": "Statute deadline monitoring",
+        "originalPath": "/features/statute-deadline-monitoring"
+      },
+      {
+        "id": "drawback-claim-preparation",
+        "title": "Drawback claim preparation",
+        "originalPath": "/features/drawback-claim-preparation"
+      },
+      {
+        "id": "agency-query-workflow",
+        "title": "Agency query workflow",
+        "originalPath": "/features/agency-query-workflow"
+      },
+      {
+        "id": "product-market-analytics",
+        "title": "Product market analytics",
+        "originalPath": "/features/product-market-analytics"
+      },
+      {
+        "id": "store-developer-agreement-library",
+        "title": "Store developer agreement library",
+        "originalPath": "/features/store-developer-agreement-library"
+      },
+      {
+        "id": "application-sku-registry",
+        "title": "Application SKU registry",
+        "originalPath": "/features/application-sku-registry"
+      },
+      {
+        "id": "transaction-ingestion",
+        "title": "Transaction ingestion",
+        "originalPath": "/features/transaction-ingestion"
+      },
+      {
+        "id": "subscription-ingestion",
+        "title": "Subscription ingestion",
+        "originalPath": "/features/subscription-ingestion"
+      },
+      {
+        "id": "subscription-rate-transition",
+        "title": "Subscription rate transition",
+        "originalPath": "/features/subscription-rate-transition"
+      },
+      {
+        "id": "withholding-calculation",
+        "title": "Withholding calculation",
+        "originalPath": "/features/withholding-calculation"
+      },
+      {
+        "id": "app-territory-analytics",
+        "title": "App territory analytics",
+        "originalPath": "/features/app-territory-analytics"
+      },
+      {
+        "id": "asset-register-ingestion",
+        "title": "Asset register ingestion",
+        "originalPath": "/features/asset-register-ingestion"
+      },
+      {
+        "id": "disposed-asset-removal",
+        "title": "Disposed asset removal",
+        "originalPath": "/features/disposed-asset-removal"
+      },
+      {
+        "id": "asset-class-mapping",
+        "title": "Asset class mapping",
+        "originalPath": "/features/asset-class-mapping"
+      },
+      {
+        "id": "functional-obsolescence",
+        "title": "Functional obsolescence",
+        "originalPath": "/features/functional-obsolescence"
+      },
+      {
+        "id": "economic-obsolescence",
+        "title": "Economic obsolescence",
+        "originalPath": "/features/economic-obsolescence"
+      },
+      {
+        "id": "exemption-qualification",
+        "title": "Exemption qualification",
+        "originalPath": "/features/exemption-qualification"
+      },
+      {
+        "id": "rendition-preparation",
+        "title": "Rendition preparation",
+        "originalPath": "/features/rendition-preparation"
+      },
+      {
+        "id": "jurisdiction-asset-analytics",
+        "title": "Jurisdiction asset analytics",
+        "originalPath": "/features/jurisdiction-asset-analytics"
+      },
+      {
+        "id": "entity-vat-profile",
+        "title": "Entity VAT profile",
+        "originalPath": "/features/entity-vat-profile"
+      },
+      {
+        "id": "partial-deductibility-calculation",
+        "title": "Partial deductibility calculation",
+        "originalPath": "/features/partial-deductibility-calculation"
+      },
+      {
+        "id": "domestic-registration-exclusion",
+        "title": "Domestic registration exclusion",
+        "originalPath": "/features/domestic-registration-exclusion"
+      },
+      {
+        "id": "minimum-claim-threshold",
+        "title": "Minimum claim threshold",
+        "originalPath": "/features/minimum-claim-threshold"
+      },
+      {
+        "id": "filing-deadline-monitoring",
+        "title": "Filing deadline monitoring",
+        "originalPath": "/features/filing-deadline-monitoring"
+      },
+      {
+        "id": "portal-claim-preparation",
+        "title": "Portal claim preparation",
+        "originalPath": "/features/portal-claim-preparation"
+      },
+      {
+        "id": "country-category-analytics",
+        "title": "Country category analytics",
+        "originalPath": "/features/country-category-analytics"
+      },
+      {
+        "id": "jurisdiction-incentive-library",
+        "title": "Jurisdiction incentive library",
+        "originalPath": "/features/jurisdiction-incentive-library"
+      },
+      {
+        "id": "production-entity-registry",
+        "title": "Production entity registry",
+        "originalPath": "/features/production-entity-registry"
+      },
+      {
+        "id": "financing-source-treatment",
+        "title": "Financing source treatment",
+        "originalPath": "/features/financing-source-treatment"
+      },
+      {
+        "id": "minimum-spend-threshold",
+        "title": "Minimum spend threshold",
+        "originalPath": "/features/minimum-spend-threshold"
+      },
+      {
+        "id": "application-package",
+        "title": "Application package",
+        "originalPath": "/features/application-package"
+      },
+      {
+        "id": "certificate-tracking",
+        "title": "Certificate tracking",
+        "originalPath": "/features/certificate-tracking"
+      },
+      {
+        "id": "production-jurisdiction-analytics",
+        "title": "Production jurisdiction analytics",
+        "originalPath": "/features/production-jurisdiction-analytics"
+      },
+      {
+        "id": "bonus-depreciation-calculation",
+        "title": "Bonus depreciation calculation",
+        "originalPath": "/features/bonus-depreciation-calculation"
+      },
+      {
+        "id": "repair-versus-capital-determination",
+        "title": "Repair versus capital determination",
+        "originalPath": "/features/repair-versus-capital-determination"
+      },
+      {
+        "id": "retirement-disposal-tracking",
+        "title": "Retirement disposal tracking",
+        "originalPath": "/features/retirement-disposal-tracking"
+      },
+      {
+        "id": "amended-return-support",
+        "title": "Amended return support",
+        "originalPath": "/features/amended-return-support"
+      },
+      {
+        "id": "entity-jurisdiction-registry",
+        "title": "Entity jurisdiction registry",
+        "originalPath": "/features/entity-jurisdiction-registry"
+      },
+      {
+        "id": "vehicle-equipment-master",
+        "title": "Vehicle equipment master",
+        "originalPath": "/features/vehicle-equipment-master"
+      },
+      {
+        "id": "fuel-card-ingestion",
+        "title": "Fuel-card ingestion",
+        "originalPath": "/features/fuel-card-ingestion"
+      },
+      {
+        "id": "bulk-fuel-receipt-ingestion",
+        "title": "Bulk fuel receipt ingestion",
+        "originalPath": "/features/bulk-fuel-receipt-ingestion"
+      },
+      {
+        "id": "asset-assignment",
+        "title": "Asset assignment",
+        "originalPath": "/features/asset-assignment"
+      },
+      {
+        "id": "form-preparation",
+        "title": "Form preparation",
+        "originalPath": "/features/form-preparation"
+      },
+      {
+        "id": "fleet-jurisdiction-analytics",
+        "title": "Fleet jurisdiction analytics",
+        "originalPath": "/features/fleet-jurisdiction-analytics"
+      },
+      {
+        "id": "employer-location-registry",
+        "title": "Employer location registry",
+        "originalPath": "/features/employer-location-registry"
+      },
+      {
+        "id": "employee-wage-ingestion",
+        "title": "Employee wage ingestion",
+        "originalPath": "/features/employee-wage-ingestion"
+      },
+      {
+        "id": "qualified-wage-calculation",
+        "title": "Qualified wage calculation",
+        "originalPath": "/features/qualified-wage-calculation"
+      },
+      {
+        "id": "form-amendment-preparation",
+        "title": "Form amendment preparation",
+        "originalPath": "/features/form-amendment-preparation"
+      },
+      {
+        "id": "program-location-analytics",
+        "title": "Program location analytics",
+        "originalPath": "/features/program-location-analytics"
+      },
+      {
+        "id": "entity-and-jurisdiction-registry",
+        "title": "Entity and jurisdiction registry",
+        "originalPath": "/features/entity-and-jurisdiction-registry"
+      },
+      {
+        "id": "agency-notice-intake",
+        "title": "Agency notice intake",
+        "originalPath": "/features/agency-notice-intake"
+      },
+      {
+        "id": "experience-rating-calculation",
+        "title": "Experience-rating calculation",
+        "originalPath": "/features/experience-rating-calculation"
+      },
+      {
+        "id": "multi-state-allocation-review",
+        "title": "Multi-state allocation review",
+        "originalPath": "/features/multi-state-allocation-review"
+      },
+      {
+        "id": "penalty-and-interest-recalculation",
+        "title": "Penalty and interest recalculation",
+        "originalPath": "/features/penalty-and-interest-recalculation"
+      },
+      {
+        "id": "agency-response-package",
+        "title": "Agency response package",
+        "originalPath": "/features/agency-response-package"
+      },
+      {
+        "id": "plan-provision-library",
+        "title": "Plan provision library",
+        "originalPath": "/features/plan-provision-library"
+      },
+      {
+        "id": "compensation-averaging",
+        "title": "Compensation averaging",
+        "originalPath": "/features/compensation-averaging"
+      },
+      {
+        "id": "benefit-formula-calculation",
+        "title": "Benefit formula calculation",
+        "originalPath": "/features/benefit-formula-calculation"
+      },
+      {
+        "id": "beneficiary-entitlement",
+        "title": "Beneficiary entitlement",
+        "originalPath": "/features/beneficiary-entitlement"
+      },
+      {
+        "id": "life-status-monitoring",
+        "title": "Life-status monitoring",
+        "originalPath": "/features/life-status-monitoring"
+      },
+      {
+        "id": "cola-calculation",
+        "title": "COLA calculation",
+        "originalPath": "/features/cola-calculation"
+      },
+      {
+        "id": "workers-compensation-offset",
+        "title": "Workers compensation offset",
+        "originalPath": "/features/workers-compensation-offset"
+      },
+      {
+        "id": "recoupment-plan-workflow",
+        "title": "Recoupment plan workflow",
+        "originalPath": "/features/recoupment-plan-workflow"
+      },
+      {
+        "id": "plan-liability-analytics",
+        "title": "Plan liability analytics",
+        "originalPath": "/features/plan-liability-analytics"
+      },
+      {
+        "id": "parcel-registry",
+        "title": "Parcel & Property Registry",
+        "originalPath": "/features/parcel-registry"
+      },
+      {
+        "id": "assessment-ingestion",
+        "title": "Assessment Notice Ingestion",
+        "originalPath": "/features/assessment-ingestion"
+      },
+      {
+        "id": "filing-calendar",
+        "title": "Jurisdiction & Filing Calendar",
+        "originalPath": "/features/filing-calendar"
+      },
+      {
+        "id": "comparable-adjustments",
+        "title": "Comparable Adjustment Workbench",
+        "originalPath": "/features/comparable-adjustments"
+      },
+      {
+        "id": "income-approach",
+        "title": "Income-Approach Valuation",
+        "originalPath": "/features/income-approach"
+      },
+      {
+        "id": "intangible-separation",
+        "title": "Business & Intangible Value Separation",
+        "originalPath": "/features/intangible-separation"
+      },
+      {
+        "id": "application-prep",
+        "title": "Appeal Application Preparation",
+        "originalPath": "/features/application-prep"
+      },
+      {
+        "id": "hearing-workbench",
+        "title": "Negotiation & Hearing Workbench",
+        "originalPath": "/features/hearing-workbench"
+      },
+      {
+        "id": "portfolio-analytics",
+        "title": "Portfolio Savings Analytics",
+        "originalPath": "/features/portfolio-analytics"
+      },
+      {
+        "id": "qualify-check",
+        "title": "Four-Part Test Qualifier",
+        "originalPath": "/features/qualify-check"
+      },
+      {
+        "id": "expense-map",
+        "title": "Expense Qualification Mapper",
+        "originalPath": "/features/expense-map"
+      },
+      {
+        "id": "participant-vesting-ingestion",
+        "title": "Participant vesting ingestion",
+        "originalPath": "/features/participant-vesting-ingestion"
+      },
+      {
+        "id": "forfeiture-recognition",
+        "title": "Forfeiture recognition",
+        "originalPath": "/features/forfeiture-recognition"
+      },
+      {
+        "id": "restoration-obligation",
+        "title": "Restoration obligation",
+        "originalPath": "/features/restoration-obligation"
+      },
+      {
+        "id": "forfeiture-account-ledger",
+        "title": "Forfeiture account ledger",
+        "originalPath": "/features/forfeiture-account-ledger"
+      },
+      {
+        "id": "contribution-offset-calculation",
+        "title": "Contribution offset calculation",
+        "originalPath": "/features/contribution-offset-calculation"
+      },
+      {
+        "id": "participant-reallocation",
+        "title": "Participant reallocation",
+        "originalPath": "/features/participant-reallocation"
+      },
+      {
+        "id": "year-end-deadline-monitoring",
+        "title": "Year-end deadline monitoring",
+        "originalPath": "/features/year-end-deadline-monitoring"
+      },
+      {
+        "id": "correction-calculation",
+        "title": "Correction calculation",
+        "originalPath": "/features/correction-calculation"
+      },
+      {
+        "id": "plan-forfeiture-analytics",
+        "title": "Plan forfeiture analytics",
+        "originalPath": "/features/plan-forfeiture-analytics"
+      },
+      {
+        "id": "customer-registry",
+        "title": "Customer Legal-Entity Registry",
+        "originalPath": "/features/customer-registry"
+      },
+      {
+        "id": "collection-portal",
+        "title": "Certificate Collection Portal",
+        "originalPath": "/features/collection-portal"
+      },
+      {
+        "id": "jurisdiction-rules",
+        "title": "Jurisdiction Rules Engine",
+        "originalPath": "/features/jurisdiction-rules"
+      },
+      {
+        "id": "transaction-coverage",
+        "title": "Certificate-to-Transaction Coverage",
+        "originalPath": "/features/transaction-coverage"
+      },
+      {
+        "id": "exposure-calculation",
+        "title": "Transaction Exposure Calculation",
+        "originalPath": "/features/exposure-calculation"
+      },
+      {
+        "id": "renewal-management",
+        "title": "Expiration & Renewal Management",
+        "originalPath": "/features/renewal-management"
+      },
+      {
+        "id": "override-governance",
+        "title": "Override Governance",
+        "originalPath": "/features/override-governance"
+      },
+      {
+        "id": "use-location-determination",
+        "title": "Use location determination",
+        "originalPath": "/features/use-location-determination"
+      },
+      {
+        "id": "exemption-mapping",
+        "title": "Exemption mapping",
+        "originalPath": "/features/exemption-mapping"
+      },
+      {
+        "id": "manufacturing-exemption",
+        "title": "Manufacturing exemption",
+        "originalPath": "/features/manufacturing-exemption"
+      },
+      {
+        "id": "resale-exemption",
+        "title": "Resale exemption",
+        "originalPath": "/features/resale-exemption"
+      },
+      {
+        "id": "entity-jurisdiction-analytics",
+        "title": "Entity jurisdiction analytics",
+        "originalPath": "/features/entity-jurisdiction-analytics"
+      },
+      {
+        "id": "building-project-registry",
+        "title": "Building project registry",
+        "originalPath": "/features/building-project-registry"
+      },
+      {
+        "id": "reference-standard-mapping",
+        "title": "Reference standard mapping",
+        "originalPath": "/features/reference-standard-mapping"
+      },
+      {
+        "id": "efficiency-threshold-calculation",
+        "title": "Efficiency threshold calculation",
+        "originalPath": "/features/efficiency-threshold-calculation"
+      },
+      {
+        "id": "deduction-calculation",
+        "title": "Deduction calculation",
+        "originalPath": "/features/deduction-calculation"
+      },
+      {
+        "id": "return-workpaper-generation",
+        "title": "Return workpaper generation",
+        "originalPath": "/features/return-workpaper-generation"
+      },
+      {
+        "id": "entity-filing-group-registry",
+        "title": "Entity filing-group registry",
+        "originalPath": "/features/entity-filing-group-registry"
+      },
+      {
+        "id": "state-rule-library",
+        "title": "State rule library",
+        "originalPath": "/features/state-rule-library"
+      },
+      {
+        "id": "property-factor-calculation",
+        "title": "Property factor calculation",
+        "originalPath": "/features/property-factor-calculation"
+      },
+      {
+        "id": "market-based-sourcing",
+        "title": "Market-based sourcing",
+        "originalPath": "/features/market-based-sourcing"
+      },
+      {
+        "id": "throwback-throwout-rules",
+        "title": "Throwback throwout rules",
+        "originalPath": "/features/throwback-throwout-rules"
+      },
+      {
+        "id": "nol-vintage-ledger",
+        "title": "NOL vintage ledger",
+        "originalPath": "/features/nol-vintage-ledger"
+      },
+      {
+        "id": "limitation-expiration-calculation",
+        "title": "Limitation expiration calculation",
+        "originalPath": "/features/limitation-expiration-calculation"
+      },
+      {
+        "id": "amended-return-opportunity",
+        "title": "Amended return opportunity",
+        "originalPath": "/features/amended-return-opportunity"
+      },
+      {
+        "id": "state-entity-analytics",
+        "title": "State entity analytics",
+        "originalPath": "/features/state-entity-analytics"
+      },
+      {
+        "id": "jurisdiction-mapping",
+        "title": "Jurisdiction mapping",
+        "originalPath": "/features/jurisdiction-mapping"
+      },
+      {
+        "id": "federal-usf-calculation",
+        "title": "Federal USF calculation",
+        "originalPath": "/features/federal-usf-calculation"
+      },
+      {
+        "id": "state-usf-calculation",
+        "title": "State USF calculation",
+        "originalPath": "/features/state-usf-calculation"
+      },
+      {
+        "id": "internet-access-exemption",
+        "title": "Internet access exemption",
+        "originalPath": "/features/internet-access-exemption"
+      },
+      {
+        "id": "overcharge-calculation",
+        "title": "Overcharge calculation",
+        "originalPath": "/features/overcharge-calculation"
+      },
+      {
+        "id": "service-jurisdiction-analytics",
+        "title": "Service jurisdiction analytics",
+        "originalPath": "/features/service-jurisdiction-analytics"
+      },
+      {
+        "id": "source-ingestion",
+        "title": "Property Source Ingestion",
+        "originalPath": "/features/source-ingestion"
+      },
+      {
+        "id": "owner-normalization",
+        "title": "Owner & Address Normalization",
+        "originalPath": "/features/owner-normalization"
+      },
+      {
+        "id": "jurisdiction",
+        "title": "Jurisdiction Priority Determination",
+        "originalPath": "/features/jurisdiction"
+      },
+      {
+        "id": "dormancy",
+        "title": "Effective-Dated Dormancy Rules",
+        "originalPath": "/features/dormancy"
+      },
+      {
+        "id": "exemptions",
+        "title": "Exemption & Deduction Review",
+        "originalPath": "/features/exemptions"
+      },
+      {
+        "id": "owner-response",
+        "title": "Owner Response & Claim Resolution",
+        "originalPath": "/features/owner-response"
+      },
+      {
+        "id": "historical-exposure",
+        "title": "Historical Exposure Estimation",
+        "originalPath": "/features/historical-exposure"
+      },
+      {
+        "id": "ma-successor",
+        "title": "M&A Successor-Liability Management",
+        "originalPath": "/features/ma-successor"
+      },
+      {
+        "id": "voluntary-disclosure",
+        "title": "Voluntary Disclosure Management",
+        "originalPath": "/features/voluntary-disclosure"
+      },
+      {
+        "id": "investor-beneficial-owner-registry",
+        "title": "Investor beneficial owner registry",
+        "originalPath": "/features/investor-beneficial-owner-registry"
+      },
+      {
+        "id": "custodian-account-mapping",
+        "title": "Custodian account mapping",
+        "originalPath": "/features/custodian-account-mapping"
+      },
+      {
+        "id": "treaty-rate-library",
+        "title": "Treaty rate library",
+        "originalPath": "/features/treaty-rate-library"
+      },
+      {
+        "id": "statutory-treaty-calculation",
+        "title": "Statutory treaty calculation",
+        "originalPath": "/features/statutory-treaty-calculation"
+      },
+      {
+        "id": "market-filing-deadlines",
+        "title": "Market filing deadlines",
+        "originalPath": "/features/market-filing-deadlines"
+      },
+      {
+        "id": "custodian-submission-workflow",
+        "title": "Custodian submission workflow",
+        "originalPath": "/features/custodian-submission-workflow"
+      },
+      {
+        "id": "country-custodian-analytics",
+        "title": "Country custodian analytics",
+        "originalPath": "/features/country-custodian-analytics"
+      },
+      {
+        "id": "portfolio",
+        "title": "Portfolio Tracker",
+        "originalPath": "/features/portfolio"
+      },
+      {
+        "id": "defi",
+        "title": "DeFi Activities",
+        "originalPath": "/features/defi"
+      },
+      {
+        "id": "cpa-accountant-review-workflow",
+        "title": "Gap: NoCpaAccountantReviewWor",
+        "originalPath": "/features/cpa-accountant-review-workflow"
+      },
+      {
+        "id": "chat",
+        "title": "AI Assistant",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "k1-intake-review",
+        "title": "K-1 Intake Review",
+        "originalPath": "/features/k1-intake-review"
+      },
+      {
+        "id": "advice",
+        "title": "AI Advice",
+        "originalPath": "/features/advice"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "taxpaid-removal-ingestion",
+      "rate-and-credit-calculation",
+      "refund-reconciliation",
+      "store-commission-calculation",
+      "in-app-purchase-reconciliation",
+      "refund-chargeback-audit",
+      "territory-tax-treatment",
+      "assessment-reconciliation",
+      "refund-tracking",
+      "supplier-invoice-ingestion",
+      "invoice-validity-checks",
+      "tax-authority-query-workflow",
+      "budget-cost-ingestion",
+      "payroll-residency-validation",
+      "credit-rebate-calculation",
+      "credit-transfer-monetization",
+      "invoice-project-mapping",
+      "tax-life-method-assignment",
+      "cost-segregation",
+      "book-to-tax-reconciliation",
+      "tax-benefit-analytics",
+      "tax-paid-gallon-calculation",
+      "federal-refund-calculation",
+      "state-refund-calculation",
+      "credit-interaction-rules",
+      "federal-credit-calculation",
+      "state-credit-calculation",
+      "payroll-deposit-reconciliation",
+      "tax-notice-workflow",
+      "general-ledger-reconciliation",
+      "payroll-register-ingestion",
+      "return-and-deposit-reconciliation",
+      "amended-return-and-refund-claim",
+      "agency-case-and-credit-tracking",
+      "tax-exposure-and-outcome-analytics",
+      "payroll-payment-reconciliation",
+      "overpayment-detection",
+      "cost-approach",
+      "decision-refund",
+      "credit-estimate",
+      "plan-expense-payment-review",
+      "tax-code-normalization",
+      "vendor-tax-error-detection",
+      "refund-statute-monitoring",
+      "refund-cash-tracking",
+      "construction-cost-ingestion",
+      "building-tax-analytics",
+      "revenue-sourcing",
+      "payroll-factor-calculation",
+      "credit-inventory",
+      "provision-return-reconciliation",
+      "carrier-invoice-ingestion",
+      "gross-receipts-tax-review",
+      "utility-user-tax-review",
+      "carrier-refund-request",
+      "tax-authority-claim-workflow",
+      "remittance",
+      "tax-residency-evidence",
+      "tax-authority-queries",
+      "currency-reconciliation",
+      "predictive-tax-liability-forecasting",
+      "missing-analyze-crypto-tax-strategy-optimize-tax-loss-harves",
+      "tax-bracket-forecaster",
+      "tax-planning",
+      "cost-basis",
+      "portfolio-risk",
+      "full-summary",
+      "state-tax-optimize",
+      "estimated-payments-ai",
+      "estimated-tax-planning-with-quarterly-payment-recommendations",
+      "state-local-tax-optimization-ai",
+      "estimated-payment-planning-ai"
+    ],
+    "ai": true,
+    "representativeId": "taxpaid-removal-ingestion",
+    "description": "One assistant for 72 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "taxpaid-removal-ingestion",
+        "title": "Taxpaid removal ingestion",
+        "originalPath": "/features/taxpaid-removal-ingestion"
+      },
+      {
+        "id": "rate-and-credit-calculation",
+        "title": "Rate and credit calculation",
+        "originalPath": "/features/rate-and-credit-calculation"
+      },
+      {
+        "id": "refund-reconciliation",
+        "title": "Refund reconciliation",
+        "originalPath": "/features/refund-reconciliation"
+      },
+      {
+        "id": "store-commission-calculation",
+        "title": "Store commission calculation",
+        "originalPath": "/features/store-commission-calculation"
+      },
+      {
+        "id": "in-app-purchase-reconciliation",
+        "title": "In-app purchase reconciliation",
+        "originalPath": "/features/in-app-purchase-reconciliation"
+      },
+      {
+        "id": "refund-chargeback-audit",
+        "title": "Refund chargeback audit",
+        "originalPath": "/features/refund-chargeback-audit"
+      },
+      {
+        "id": "territory-tax-treatment",
+        "title": "Territory tax treatment",
+        "originalPath": "/features/territory-tax-treatment"
+      },
+      {
+        "id": "assessment-reconciliation",
+        "title": "Assessment reconciliation",
+        "originalPath": "/features/assessment-reconciliation"
+      },
+      {
+        "id": "refund-tracking",
+        "title": "Refund tracking",
+        "originalPath": "/features/refund-tracking"
+      },
+      {
+        "id": "supplier-invoice-ingestion",
+        "title": "Supplier invoice ingestion",
+        "originalPath": "/features/supplier-invoice-ingestion"
+      },
+      {
+        "id": "invoice-validity-checks",
+        "title": "Invoice validity checks",
+        "originalPath": "/features/invoice-validity-checks"
+      },
+      {
+        "id": "tax-authority-query-workflow",
+        "title": "Tax authority query workflow",
+        "originalPath": "/features/tax-authority-query-workflow"
+      },
+      {
+        "id": "budget-cost-ingestion",
+        "title": "Budget cost ingestion",
+        "originalPath": "/features/budget-cost-ingestion"
+      },
+      {
+        "id": "payroll-residency-validation",
+        "title": "Payroll residency validation",
+        "originalPath": "/features/payroll-residency-validation"
+      },
+      {
+        "id": "credit-rebate-calculation",
+        "title": "Credit rebate calculation",
+        "originalPath": "/features/credit-rebate-calculation"
+      },
+      {
+        "id": "credit-transfer-monetization",
+        "title": "Credit transfer monetization",
+        "originalPath": "/features/credit-transfer-monetization"
+      },
+      {
+        "id": "invoice-project-mapping",
+        "title": "Invoice project mapping",
+        "originalPath": "/features/invoice-project-mapping"
+      },
+      {
+        "id": "tax-life-method-assignment",
+        "title": "Tax life method assignment",
+        "originalPath": "/features/tax-life-method-assignment"
+      },
+      {
+        "id": "cost-segregation",
+        "title": "Cost segregation",
+        "originalPath": "/features/cost-segregation"
+      },
+      {
+        "id": "book-to-tax-reconciliation",
+        "title": "Book-to-tax reconciliation",
+        "originalPath": "/features/book-to-tax-reconciliation"
+      },
+      {
+        "id": "tax-benefit-analytics",
+        "title": "Tax benefit analytics",
+        "originalPath": "/features/tax-benefit-analytics"
+      },
+      {
+        "id": "tax-paid-gallon-calculation",
+        "title": "Tax-paid gallon calculation",
+        "originalPath": "/features/tax-paid-gallon-calculation"
+      },
+      {
+        "id": "federal-refund-calculation",
+        "title": "Federal refund calculation",
+        "originalPath": "/features/federal-refund-calculation"
+      },
+      {
+        "id": "state-refund-calculation",
+        "title": "State refund calculation",
+        "originalPath": "/features/state-refund-calculation"
+      },
+      {
+        "id": "credit-interaction-rules",
+        "title": "Credit interaction rules",
+        "originalPath": "/features/credit-interaction-rules"
+      },
+      {
+        "id": "federal-credit-calculation",
+        "title": "Federal credit calculation",
+        "originalPath": "/features/federal-credit-calculation"
+      },
+      {
+        "id": "state-credit-calculation",
+        "title": "State credit calculation",
+        "originalPath": "/features/state-credit-calculation"
+      },
+      {
+        "id": "payroll-deposit-reconciliation",
+        "title": "Payroll deposit reconciliation",
+        "originalPath": "/features/payroll-deposit-reconciliation"
+      },
+      {
+        "id": "tax-notice-workflow",
+        "title": "Tax notice workflow",
+        "originalPath": "/features/tax-notice-workflow"
+      },
+      {
+        "id": "general-ledger-reconciliation",
+        "title": "General-ledger reconciliation",
+        "originalPath": "/features/general-ledger-reconciliation"
+      },
+      {
+        "id": "payroll-register-ingestion",
+        "title": "Payroll register ingestion",
+        "originalPath": "/features/payroll-register-ingestion"
+      },
+      {
+        "id": "return-and-deposit-reconciliation",
+        "title": "Return and deposit reconciliation",
+        "originalPath": "/features/return-and-deposit-reconciliation"
+      },
+      {
+        "id": "amended-return-and-refund-claim",
+        "title": "Amended return and refund claim",
+        "originalPath": "/features/amended-return-and-refund-claim"
+      },
+      {
+        "id": "agency-case-and-credit-tracking",
+        "title": "Agency case and credit tracking",
+        "originalPath": "/features/agency-case-and-credit-tracking"
+      },
+      {
+        "id": "tax-exposure-and-outcome-analytics",
+        "title": "Tax exposure and outcome analytics",
+        "originalPath": "/features/tax-exposure-and-outcome-analytics"
+      },
+      {
+        "id": "payroll-payment-reconciliation",
+        "title": "Payroll payment reconciliation",
+        "originalPath": "/features/payroll-payment-reconciliation"
+      },
+      {
+        "id": "overpayment-detection",
+        "title": "Overpayment detection",
+        "originalPath": "/features/overpayment-detection"
+      },
+      {
+        "id": "cost-approach",
+        "title": "Cost-Approach Valuation",
+        "originalPath": "/features/cost-approach"
+      },
+      {
+        "id": "decision-refund",
+        "title": "Decision & Refund Tracking",
+        "originalPath": "/features/decision-refund"
+      },
+      {
+        "id": "credit-estimate",
+        "title": "Credit & 174A Estimator",
+        "originalPath": "/features/credit-estimate"
+      },
+      {
+        "id": "plan-expense-payment-review",
+        "title": "Plan expense payment review",
+        "originalPath": "/features/plan-expense-payment-review"
+      },
+      {
+        "id": "tax-code-normalization",
+        "title": "Tax code normalization",
+        "originalPath": "/features/tax-code-normalization"
+      },
+      {
+        "id": "vendor-tax-error-detection",
+        "title": "Vendor tax error detection",
+        "originalPath": "/features/vendor-tax-error-detection"
+      },
+      {
+        "id": "refund-statute-monitoring",
+        "title": "Refund statute monitoring",
+        "originalPath": "/features/refund-statute-monitoring"
+      },
+      {
+        "id": "refund-cash-tracking",
+        "title": "Refund cash tracking",
+        "originalPath": "/features/refund-cash-tracking"
+      },
+      {
+        "id": "construction-cost-ingestion",
+        "title": "Construction cost ingestion",
+        "originalPath": "/features/construction-cost-ingestion"
+      },
+      {
+        "id": "building-tax-analytics",
+        "title": "Building tax analytics",
+        "originalPath": "/features/building-tax-analytics"
+      },
+      {
+        "id": "revenue-sourcing",
+        "title": "Revenue sourcing",
+        "originalPath": "/features/revenue-sourcing"
+      },
+      {
+        "id": "payroll-factor-calculation",
+        "title": "Payroll factor calculation",
+        "originalPath": "/features/payroll-factor-calculation"
+      },
+      {
+        "id": "credit-inventory",
+        "title": "Credit inventory",
+        "originalPath": "/features/credit-inventory"
+      },
+      {
+        "id": "provision-return-reconciliation",
+        "title": "Provision return reconciliation",
+        "originalPath": "/features/provision-return-reconciliation"
+      },
+      {
+        "id": "carrier-invoice-ingestion",
+        "title": "Carrier invoice ingestion",
+        "originalPath": "/features/carrier-invoice-ingestion"
+      },
+      {
+        "id": "gross-receipts-tax-review",
+        "title": "Gross receipts tax review",
+        "originalPath": "/features/gross-receipts-tax-review"
+      },
+      {
+        "id": "utility-user-tax-review",
+        "title": "Utility user tax review",
+        "originalPath": "/features/utility-user-tax-review"
+      },
+      {
+        "id": "carrier-refund-request",
+        "title": "Carrier refund request",
+        "originalPath": "/features/carrier-refund-request"
+      },
+      {
+        "id": "tax-authority-claim-workflow",
+        "title": "Tax authority claim workflow",
+        "originalPath": "/features/tax-authority-claim-workflow"
+      },
+      {
+        "id": "remittance",
+        "title": "Remittance Reconciliation",
+        "originalPath": "/features/remittance"
+      },
+      {
+        "id": "tax-residency-evidence",
+        "title": "Tax residency evidence",
+        "originalPath": "/features/tax-residency-evidence"
+      },
+      {
+        "id": "tax-authority-queries",
+        "title": "Tax authority queries",
+        "originalPath": "/features/tax-authority-queries"
+      },
+      {
+        "id": "currency-reconciliation",
+        "title": "Currency reconciliation",
+        "originalPath": "/features/currency-reconciliation"
+      },
+      {
+        "id": "predictive-tax-liability-forecasting",
+        "title": "CF: PredictiveTaxLiabilityFo",
+        "originalPath": "/features/predictive-tax-liability-forecasting"
+      },
+      {
+        "id": "missing-analyze-crypto-tax-strategy-optimize-tax-loss-harves",
+        "title": "Gap: MissingAnalyzeCryptoTaxS",
+        "originalPath": "/features/missing-analyze-crypto-tax-strategy-optimize-tax-loss-harves"
+      },
+      {
+        "id": "tax-bracket-forecaster",
+        "title": "Tax Bracket Forecaster",
+        "originalPath": "/features/tax-bracket-forecaster"
+      },
+      {
+        "id": "tax-planning",
+        "title": "AI Tax Planning",
+        "originalPath": "/features/tax-planning"
+      },
+      {
+        "id": "cost-basis",
+        "title": "Cost Basis Optimizer",
+        "originalPath": "/features/cost-basis"
+      },
+      {
+        "id": "portfolio-risk",
+        "title": "Portfolio Tax Risk",
+        "originalPath": "/features/portfolio-risk"
+      },
+      {
+        "id": "full-summary",
+        "title": "Full Tax Summary",
+        "originalPath": "/features/full-summary"
+      },
+      {
+        "id": "state-tax-optimize",
+        "title": "State Tax Optimizer",
+        "originalPath": "/features/state-tax-optimize"
+      },
+      {
+        "id": "estimated-payments-ai",
+        "title": "Estimated Payments (AI)",
+        "originalPath": "/features/estimated-payments-ai"
+      },
+      {
+        "id": "estimated-tax-planning-with-quarterly-payment-recommendations",
+        "title": "estimated tax planning with quarterly payment recommendations",
+        "originalPath": "/features/estimated-tax-planning-with-quarterly-payment-recommendations"
+      },
+      {
+        "id": "state-local-tax-optimization-ai",
+        "title": "state local tax optimization ai",
+        "originalPath": "/features/state-local-tax-optimization-ai"
+      },
+      {
+        "id": "estimated-payment-planning-ai",
+        "title": "estimated payment planning ai",
+        "originalPath": "/features/estimated-payment-planning-ai"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "bonded-transfer-control",
+      "proof-of-export-evidence",
+      "destruction-loss-evidence",
+      "claim-eligibility",
+      "small-business-rate-validation",
+      "location-situs-validation",
+      "evidence-packet-generation",
+      "country-eligibility-rules",
+      "business-purpose-evidence",
+      "vendor-location-validation",
+      "related-party-control",
+      "audit-sample-workbench",
+      "placed-in-service-validation",
+      "evidence-package",
+      "eligibility-population-matching",
+      "certification-deadline-control",
+      "notice-deadline-control",
+      "suta-rate-validation",
+      "benefit-charge-audit",
+      "wage-base-and-rate-validation",
+      "election-option-validation",
+      "social-security-offset",
+      "member-appeal-evidence",
+      "anomaly-detection",
+      "evidence-exchange",
+      "termination-event-control",
+      "permitted-use-validation",
+      "audit-evidence-package",
+      "reason-validation",
+      "product-eligibility",
+      "erp-controls",
+      "defense-package",
+      "compliance-analytics",
+      "jurisdiction-rate-validation",
+      "sample-projection-control",
+      "claim-evidence-package",
+      "ownership-eligibility",
+      "government-allocation-control",
+      "lighting-system-evidence",
+      "hvac-system-evidence",
+      "envelope-system-evidence",
+      "energy-model-validation",
+      "certification-evidence",
+      "combined-reporting-control",
+      "service-address-validation",
+      "911-surcharge-validation",
+      "audit-defense",
+      "security-income-event-ingestion",
+      "relief-at-source-validation",
+      "power-of-attorney-control",
+      "regulatory"
+    ],
+    "ai": true,
+    "representativeId": "bonded-transfer-control",
+    "description": "One assistant for 51 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "bonded-transfer-control",
+        "title": "Bonded transfer control",
+        "originalPath": "/features/bonded-transfer-control"
+      },
+      {
+        "id": "proof-of-export-evidence",
+        "title": "Proof-of-export evidence",
+        "originalPath": "/features/proof-of-export-evidence"
+      },
+      {
+        "id": "destruction-loss-evidence",
+        "title": "Destruction loss evidence",
+        "originalPath": "/features/destruction-loss-evidence"
+      },
+      {
+        "id": "claim-eligibility",
+        "title": "Claim eligibility",
+        "originalPath": "/features/claim-eligibility"
+      },
+      {
+        "id": "small-business-rate-validation",
+        "title": "Small-business rate validation",
+        "originalPath": "/features/small-business-rate-validation"
+      },
+      {
+        "id": "location-situs-validation",
+        "title": "Location situs validation",
+        "originalPath": "/features/location-situs-validation"
+      },
+      {
+        "id": "evidence-packet-generation",
+        "title": "Evidence packet generation",
+        "originalPath": "/features/evidence-packet-generation"
+      },
+      {
+        "id": "country-eligibility-rules",
+        "title": "Country eligibility rules",
+        "originalPath": "/features/country-eligibility-rules"
+      },
+      {
+        "id": "business-purpose-evidence",
+        "title": "Business purpose evidence",
+        "originalPath": "/features/business-purpose-evidence"
+      },
+      {
+        "id": "vendor-location-validation",
+        "title": "Vendor location validation",
+        "originalPath": "/features/vendor-location-validation"
+      },
+      {
+        "id": "related-party-control",
+        "title": "Related-party control",
+        "originalPath": "/features/related-party-control"
+      },
+      {
+        "id": "audit-sample-workbench",
+        "title": "Audit sample workbench",
+        "originalPath": "/features/audit-sample-workbench"
+      },
+      {
+        "id": "placed-in-service-validation",
+        "title": "Placed-in-service validation",
+        "originalPath": "/features/placed-in-service-validation"
+      },
+      {
+        "id": "evidence-package",
+        "title": "Evidence package",
+        "originalPath": "/features/evidence-package"
+      },
+      {
+        "id": "eligibility-population-matching",
+        "title": "Eligibility population matching",
+        "originalPath": "/features/eligibility-population-matching"
+      },
+      {
+        "id": "certification-deadline-control",
+        "title": "Certification deadline control",
+        "originalPath": "/features/certification-deadline-control"
+      },
+      {
+        "id": "notice-deadline-control",
+        "title": "Notice deadline control",
+        "originalPath": "/features/notice-deadline-control"
+      },
+      {
+        "id": "suta-rate-validation",
+        "title": "SUTA rate validation",
+        "originalPath": "/features/suta-rate-validation"
+      },
+      {
+        "id": "benefit-charge-audit",
+        "title": "Benefit charge audit",
+        "originalPath": "/features/benefit-charge-audit"
+      },
+      {
+        "id": "wage-base-and-rate-validation",
+        "title": "Wage-base and rate validation",
+        "originalPath": "/features/wage-base-and-rate-validation"
+      },
+      {
+        "id": "election-option-validation",
+        "title": "Election option validation",
+        "originalPath": "/features/election-option-validation"
+      },
+      {
+        "id": "social-security-offset",
+        "title": "Social Security offset",
+        "originalPath": "/features/social-security-offset"
+      },
+      {
+        "id": "member-appeal-evidence",
+        "title": "Member appeal evidence",
+        "originalPath": "/features/member-appeal-evidence"
+      },
+      {
+        "id": "anomaly-detection",
+        "title": "Assessment Anomaly Detection",
+        "originalPath": "/features/anomaly-detection"
+      },
+      {
+        "id": "evidence-exchange",
+        "title": "Evidence Exchange Management",
+        "originalPath": "/features/evidence-exchange"
+      },
+      {
+        "id": "termination-event-control",
+        "title": "Termination event control",
+        "originalPath": "/features/termination-event-control"
+      },
+      {
+        "id": "permitted-use-validation",
+        "title": "Permitted use validation",
+        "originalPath": "/features/permitted-use-validation"
+      },
+      {
+        "id": "audit-evidence-package",
+        "title": "Audit evidence package",
+        "originalPath": "/features/audit-evidence-package"
+      },
+      {
+        "id": "reason-validation",
+        "title": "Exemption-Reason Validation",
+        "originalPath": "/features/reason-validation"
+      },
+      {
+        "id": "product-eligibility",
+        "title": "Product & Usage Eligibility",
+        "originalPath": "/features/product-eligibility"
+      },
+      {
+        "id": "erp-controls",
+        "title": "ERP Order Controls",
+        "originalPath": "/features/erp-controls"
+      },
+      {
+        "id": "defense-package",
+        "title": "Audit-Defense Package",
+        "originalPath": "/features/defense-package"
+      },
+      {
+        "id": "compliance-analytics",
+        "title": "Exposure & Compliance Analytics",
+        "originalPath": "/features/compliance-analytics"
+      },
+      {
+        "id": "jurisdiction-rate-validation",
+        "title": "Jurisdiction rate validation",
+        "originalPath": "/features/jurisdiction-rate-validation"
+      },
+      {
+        "id": "sample-projection-control",
+        "title": "Sample projection control",
+        "originalPath": "/features/sample-projection-control"
+      },
+      {
+        "id": "claim-evidence-package",
+        "title": "Claim evidence package",
+        "originalPath": "/features/claim-evidence-package"
+      },
+      {
+        "id": "ownership-eligibility",
+        "title": "Ownership eligibility",
+        "originalPath": "/features/ownership-eligibility"
+      },
+      {
+        "id": "government-allocation-control",
+        "title": "Government allocation control",
+        "originalPath": "/features/government-allocation-control"
+      },
+      {
+        "id": "lighting-system-evidence",
+        "title": "Lighting system evidence",
+        "originalPath": "/features/lighting-system-evidence"
+      },
+      {
+        "id": "hvac-system-evidence",
+        "title": "HVAC system evidence",
+        "originalPath": "/features/hvac-system-evidence"
+      },
+      {
+        "id": "envelope-system-evidence",
+        "title": "Envelope system evidence",
+        "originalPath": "/features/envelope-system-evidence"
+      },
+      {
+        "id": "energy-model-validation",
+        "title": "Energy model validation",
+        "originalPath": "/features/energy-model-validation"
+      },
+      {
+        "id": "certification-evidence",
+        "title": "Certification evidence",
+        "originalPath": "/features/certification-evidence"
+      },
+      {
+        "id": "combined-reporting-control",
+        "title": "Combined reporting control",
+        "originalPath": "/features/combined-reporting-control"
+      },
+      {
+        "id": "service-address-validation",
+        "title": "Service address validation",
+        "originalPath": "/features/service-address-validation"
+      },
+      {
+        "id": "911-surcharge-validation",
+        "title": "911 surcharge validation",
+        "originalPath": "/features/911-surcharge-validation"
+      },
+      {
+        "id": "audit-defense",
+        "title": "Audit-Defense Workpapers",
+        "originalPath": "/features/audit-defense"
+      },
+      {
+        "id": "security-income-event-ingestion",
+        "title": "Security income event ingestion",
+        "originalPath": "/features/security-income-event-ingestion"
+      },
+      {
+        "id": "relief-at-source-validation",
+        "title": "Relief-at-source validation",
+        "originalPath": "/features/relief-at-source-validation"
+      },
+      {
+        "id": "power-of-attorney-control",
+        "title": "Power-of-attorney control",
+        "originalPath": "/features/power-of-attorney-control"
+      },
+      {
+        "id": "regulatory",
+        "title": "Regulatory Updates",
+        "originalPath": "/features/regulatory"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "export-shipment-matching",
+      "store-statement-matching",
+      "missing-payout-detection",
+      "ghost-asset-detection",
+      "appeal-opportunity-scoring",
+      "expense-category-classification",
+      "qualified-spend-classification",
+      "asset-classification",
+      "section-179-analysis",
+      "partial-disposition-analysis",
+      "telematics-matching",
+      "engine-hour-matching",
+      "eligible-use-classification",
+      "obsolescence",
+      "operational-failure-detection",
+      "document-extraction",
+      "unsupported-detection",
+      "product-service-classification",
+      "duplicate-accrual-detection",
+      "service-product-classification",
+      "property-classification",
+      "activity-contact",
+      "excess-withholding-detection",
+      "donation-optimizer",
+      "earned-income-split",
+      "wash-sale",
+      "audit-risk-analyze"
+    ],
+    "ai": true,
+    "representativeId": "export-shipment-matching",
+    "description": "One assistant for 27 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "export-shipment-matching",
+        "title": "Export shipment matching",
+        "originalPath": "/features/export-shipment-matching"
+      },
+      {
+        "id": "store-statement-matching",
+        "title": "Store statement matching",
+        "originalPath": "/features/store-statement-matching"
+      },
+      {
+        "id": "missing-payout-detection",
+        "title": "Missing payout detection",
+        "originalPath": "/features/missing-payout-detection"
+      },
+      {
+        "id": "ghost-asset-detection",
+        "title": "Ghost asset detection",
+        "originalPath": "/features/ghost-asset-detection"
+      },
+      {
+        "id": "appeal-opportunity-scoring",
+        "title": "Appeal opportunity scoring",
+        "originalPath": "/features/appeal-opportunity-scoring"
+      },
+      {
+        "id": "expense-category-classification",
+        "title": "Expense category classification",
+        "originalPath": "/features/expense-category-classification"
+      },
+      {
+        "id": "qualified-spend-classification",
+        "title": "Qualified spend classification",
+        "originalPath": "/features/qualified-spend-classification"
+      },
+      {
+        "id": "asset-classification",
+        "title": "Asset classification",
+        "originalPath": "/features/asset-classification"
+      },
+      {
+        "id": "section-179-analysis",
+        "title": "Section 179 analysis",
+        "originalPath": "/features/section-179-analysis"
+      },
+      {
+        "id": "partial-disposition-analysis",
+        "title": "Partial disposition analysis",
+        "originalPath": "/features/partial-disposition-analysis"
+      },
+      {
+        "id": "telematics-matching",
+        "title": "Telematics matching",
+        "originalPath": "/features/telematics-matching"
+      },
+      {
+        "id": "engine-hour-matching",
+        "title": "Engine-hour matching",
+        "originalPath": "/features/engine-hour-matching"
+      },
+      {
+        "id": "eligible-use-classification",
+        "title": "Eligible use classification",
+        "originalPath": "/features/eligible-use-classification"
+      },
+      {
+        "id": "obsolescence",
+        "title": "Economic Obsolescence Analysis",
+        "originalPath": "/features/obsolescence"
+      },
+      {
+        "id": "operational-failure-detection",
+        "title": "Operational failure detection",
+        "originalPath": "/features/operational-failure-detection"
+      },
+      {
+        "id": "document-extraction",
+        "title": "Certificate Classification & Extraction",
+        "originalPath": "/features/document-extraction"
+      },
+      {
+        "id": "unsupported-detection",
+        "title": "Unsupported Exemption Detection",
+        "originalPath": "/features/unsupported-detection"
+      },
+      {
+        "id": "product-service-classification",
+        "title": "Product service classification",
+        "originalPath": "/features/product-service-classification"
+      },
+      {
+        "id": "duplicate-accrual-detection",
+        "title": "Duplicate accrual detection",
+        "originalPath": "/features/duplicate-accrual-detection"
+      },
+      {
+        "id": "service-product-classification",
+        "title": "Service product classification",
+        "originalPath": "/features/service-product-classification"
+      },
+      {
+        "id": "property-classification",
+        "title": "Property-Type Classification",
+        "originalPath": "/features/property-classification"
+      },
+      {
+        "id": "activity-contact",
+        "title": "Activity & Owner-Contact Analysis",
+        "originalPath": "/features/activity-contact"
+      },
+      {
+        "id": "excess-withholding-detection",
+        "title": "Excess withholding detection",
+        "originalPath": "/features/excess-withholding-detection"
+      },
+      {
+        "id": "donation-optimizer",
+        "title": "Donation Optimizer",
+        "originalPath": "/features/donation-optimizer"
+      },
+      {
+        "id": "earned-income-split",
+        "title": "Earned Income Split Analyzer",
+        "originalPath": "/features/earned-income-split"
+      },
+      {
+        "id": "wash-sale",
+        "title": "Wash Sale Analyzer",
+        "originalPath": "/features/wash-sale"
+      },
+      {
+        "id": "audit-risk-analyze",
+        "title": "Analyze",
+        "originalPath": "/features/audit-risk-analyze"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "currency-conversion",
+      "comparable-selection",
+      "customer-outreach",
+      "due-diligence"
+    ],
+    "ai": true,
+    "representativeId": "currency-conversion",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "currency-conversion",
+        "title": "Currency conversion",
+        "originalPath": "/features/currency-conversion"
+      },
+      {
+        "id": "comparable-selection",
+        "title": "Comparable-Sales Selection",
+        "originalPath": "/features/comparable-selection"
+      },
+      {
+        "id": "customer-outreach",
+        "title": "Automated Customer Outreach",
+        "originalPath": "/features/customer-outreach"
+      },
+      {
+        "id": "due-diligence",
+        "title": "Due-Diligence Campaign Management",
+        "originalPath": "/features/due-diligence"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "depreciation-schedule-application",
+      "tax-schedule-generation"
+    ],
+    "ai": true,
+    "representativeId": "depreciation-schedule-application",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "depreciation-schedule-application",
+        "title": "Depreciation schedule application",
+        "originalPath": "/features/depreciation-schedule-application"
+      },
+      {
+        "id": "tax-schedule-generation",
+        "title": "Tax schedule generation",
+        "originalPath": "/features/tax-schedule-generation"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "participant-service-history"
+    ],
+    "ai": true,
+    "representativeId": "participant-service-history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "participant-service-history",
+        "title": "Participant service history",
+        "originalPath": "/features/participant-service-history"
+      }
+    ]
+  }
+]

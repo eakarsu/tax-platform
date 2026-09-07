@@ -1,0 +1,4649 @@
+{
+  "mapped": [
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "producer-permit-registry",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "producer-permit-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "product-formula-registry",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "product-formula-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "production-lot-tracking",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "production-lot-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "taxpaid-removal-ingestion",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "taxpaid-removal-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "bonded-transfer-control",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "bonded-transfer-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "export-shipment-matching",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "export-shipment-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "proof-of-export-evidence",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "proof-of-export-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "destruction-loss-evidence",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "destruction-loss-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "rate-and-credit-calculation",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "rate-and-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "claim-eligibility",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "claim-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "statute-deadline-monitoring",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "statute-deadline-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "drawback-claim-preparation",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "drawback-claim-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "agency-query-workflow",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "agency-query-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "product-market-analytics",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/app.config.mjs",
+      "canonical": "product-market-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "store-developer-agreement-library",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "store-developer-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "application-sku-registry",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "application-sku-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "subscription-ingestion",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "subscription-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "store-commission-calculation",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "store-commission-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "small-business-rate-validation",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "small-business-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "subscription-rate-transition",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "subscription-rate-transition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "in-app-purchase-reconciliation",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "in-app-purchase-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "refund-chargeback-audit",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "refund-chargeback-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "territory-tax-treatment",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "territory-tax-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "withholding-calculation",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "withholding-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "currency-conversion",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "currency-conversion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "store-statement-matching",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "store-statement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "missing-payout-detection",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "missing-payout-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "app-territory-analytics",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/app.config.mjs",
+      "canonical": "app-territory-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-asc-740-tax-provision",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-asc-740-tax-provision/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-asc-740-tax-provision",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-asc-740-tax-provision/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-asc-740-tax-provision",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-asc-740-tax-provision/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "asset-register-ingestion",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "asset-register-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "location-situs-validation",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "location-situs-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "ghost-asset-detection",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "ghost-asset-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "disposed-asset-removal",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "disposed-asset-removal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "asset-class-mapping",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "asset-class-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "depreciation-schedule-application",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "depreciation-schedule-application",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "functional-obsolescence",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "functional-obsolescence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "economic-obsolescence",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "economic-obsolescence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "exemption-qualification",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "exemption-qualification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "rendition-preparation",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "rendition-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "assessment-reconciliation",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "assessment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "appeal-opportunity-scoring",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "appeal-opportunity-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "evidence-packet-generation",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "evidence-packet-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "refund-tracking",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "refund-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "jurisdiction-asset-analytics",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/app.config.mjs",
+      "canonical": "jurisdiction-asset-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "entity-vat-profile",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "entity-vat-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "supplier-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "supplier-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "invoice-validity-checks",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "invoice-validity-checks",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "country-eligibility-rules",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "country-eligibility-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "expense-category-classification",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "expense-category-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "business-purpose-evidence",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "business-purpose-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "partial-deductibility-calculation",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "partial-deductibility-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "domestic-registration-exclusion",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "domestic-registration-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "original-document-control",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "original-document-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "minimum-claim-threshold",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "minimum-claim-threshold",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "filing-deadline-monitoring",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "filing-deadline-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "portal-claim-preparation",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "portal-claim-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "tax-authority-query-workflow",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "tax-authority-query-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "country-category-analytics",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/app.config.mjs",
+      "canonical": "country-category-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "jurisdiction-incentive-library",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "jurisdiction-incentive-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "production-entity-registry",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "production-entity-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "budget-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "budget-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "payroll-residency-validation",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "payroll-residency-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "vendor-location-validation",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "vendor-location-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "qualified-spend-classification",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "qualified-spend-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "related-party-control",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "related-party-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "financing-source-treatment",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "financing-source-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "minimum-spend-threshold",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "minimum-spend-threshold",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "credit-rebate-calculation",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "credit-rebate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "audit-sample-workbench",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "audit-sample-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "application-package",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "application-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "certificate-tracking",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "certificate-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "credit-transfer-monetization",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "credit-transfer-monetization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "production-jurisdiction-analytics",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/app.config.mjs",
+      "canonical": "production-jurisdiction-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "asset-register-ingestion",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "asset-register-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "invoice-project-mapping",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "invoice-project-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "asset-classification",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "asset-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "placed-in-service-validation",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "placed-in-service-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "tax-life-method-assignment",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "tax-life-method-assignment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "bonus-depreciation-calculation",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "bonus-depreciation-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "section-179-analysis",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "section-179-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "cost-segregation",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "cost-segregation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "repair-versus-capital-determination",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "repair-versus-capital-determination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "partial-disposition-analysis",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "partial-disposition-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "retirement-disposal-tracking",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "retirement-disposal-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "book-to-tax-reconciliation",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "book-to-tax-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "tax-schedule-generation",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "tax-schedule-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "amended-return-support",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "amended-return-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "tax-benefit-analytics",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/app.config.mjs",
+      "canonical": "tax-benefit-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "entity-jurisdiction-registry",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "entity-jurisdiction-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "vehicle-equipment-master",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "vehicle-equipment-master",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "fuel-card-ingestion",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "fuel-card-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "bulk-fuel-receipt-ingestion",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "bulk-fuel-receipt-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "asset-assignment",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "asset-assignment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "telematics-matching",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "telematics-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "engine-hour-matching",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "engine-hour-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "tax-paid-gallon-calculation",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "tax-paid-gallon-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "eligible-use-classification",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "eligible-use-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "federal-refund-calculation",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "federal-refund-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "state-refund-calculation",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "state-refund-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "evidence-package",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "form-preparation",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "form-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "refund-tracking",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "refund-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "fleet-jurisdiction-analytics",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/app.config.mjs",
+      "canonical": "fleet-jurisdiction-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-global-e-invoicing-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-global-e-invoicing-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-global-e-invoicing-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-global-e-invoicing-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-global-e-invoicing-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-global-e-invoicing-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "employer-location-registry",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "employer-location-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "employee-wage-ingestion",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "employee-wage-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "eligibility-population-matching",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "eligibility-population-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "certification-deadline-control",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "certification-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "qualified-wage-calculation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "qualified-wage-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "credit-interaction-rules",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "credit-interaction-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "federal-credit-calculation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "federal-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "state-credit-calculation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "state-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "payroll-deposit-reconciliation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "payroll-deposit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "form-amendment-preparation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "form-amendment-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "supporting-document-package",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "supporting-document-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "tax-notice-workflow",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "tax-notice-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "refund-tracking",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "refund-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "general-ledger-reconciliation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "general-ledger-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "program-location-analytics",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/app.config.mjs",
+      "canonical": "program-location-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "entity-and-jurisdiction-registry",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "entity-and-jurisdiction-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "payroll-register-ingestion",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "payroll-register-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "return-and-deposit-reconciliation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "return-and-deposit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "agency-notice-intake",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "agency-notice-intake",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "notice-deadline-control",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "notice-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "suta-rate-validation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "suta-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "experience-rating-calculation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "experience-rating-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "benefit-charge-audit",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "benefit-charge-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "wage-base-and-rate-validation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "wage-base-and-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "multi-state-allocation-review",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "multi-state-allocation-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "penalty-and-interest-recalculation",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "penalty-and-interest-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "agency-response-package",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "agency-response-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "amended-return-and-refund-claim",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "amended-return-and-refund-claim",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "agency-case-and-credit-tracking",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "agency-case-and-credit-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "tax-exposure-and-outcome-analytics",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/app.config.mjs",
+      "canonical": "tax-exposure-and-outcome-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "plan-provision-library",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "plan-provision-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "participant-service-history",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "participant-service-history",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "compensation-averaging",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "compensation-averaging",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "benefit-formula-calculation",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "benefit-formula-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "election-option-validation",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "election-option-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "beneficiary-entitlement",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "beneficiary-entitlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "life-status-monitoring",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "life-status-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "cola-calculation",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "cola-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "social-security-offset",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "social-security-offset",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "workers-compensation-offset",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "workers-compensation-offset",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "payroll-payment-reconciliation",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "payroll-payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "overpayment-detection",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "overpayment-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "recoupment-plan-workflow",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "recoupment-plan-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "member-appeal-evidence",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "member-appeal-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "plan-liability-analytics",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/app.config.mjs",
+      "canonical": "plan-liability-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pillar-two-global-minimum-tax",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-pillar-two-global-minimum-tax/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pillar-two-global-minimum-tax",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-pillar-two-global-minimum-tax/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-pillar-two-global-minimum-tax",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-pillar-two-global-minimum-tax/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "parcel-registry",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "parcel-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "assessment-ingestion",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "assessment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "filing-calendar",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "filing-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "anomaly-detection",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "comparable-selection",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "comparable-selection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "comparable-adjustments",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "comparable-adjustments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "income-approach",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "income-approach",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "cost-approach",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "cost-approach",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "intangible-separation",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "intangible-separation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "obsolescence",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "obsolescence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "opportunity-scoring",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "appeal-opportunity-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "application-prep",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "application-prep",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "evidence-exchange",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "evidence-exchange",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "hearing-workbench",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "hearing-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "decision-refund",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "decision-refund",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "portfolio-analytics",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/app.config.mjs",
+      "canonical": "portfolio-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "/evidence",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "/credits",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "credits",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "TaxYear",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "tax-year",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "ResearchProject",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "research-project",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "QualifiedExpense",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "qualified-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "GitEvidence",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "git-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "TicketEvidence",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "ticket-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "Experiment",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "experiment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "ContractorCost",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "contractor-cost",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "WageAllocation",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "wage-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "Section174aCost",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "section174a-cost",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "CreditCalculation",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "TaxDocument",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "tax-document",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "AuditDefenseItem",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "audit-defense-item",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "qualify-check",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "qualify-check",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "expense-map",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "expense-map",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-174a-evidence-workbench",
+      "sourceKey": "credit-estimate",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-174a-evidence-workbench/src/config/app.ts",
+      "canonical": "credit-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-section-174a-workbench",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-section-174a-workbench/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-section-174a-workbench",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-section-174a-workbench/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-rd-tax-credit-section-174a-workbench",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-rd-tax-credit-section-174a-workbench/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "plan-document-rules",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "plan-document-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "participant-vesting-ingestion",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "participant-vesting-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "termination-event-control",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "termination-event-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "forfeiture-recognition",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "forfeiture-recognition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "restoration-obligation",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "restoration-obligation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "forfeiture-account-ledger",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "forfeiture-account-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "permitted-use-validation",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "permitted-use-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "contribution-offset-calculation",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "contribution-offset-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "plan-expense-payment-review",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "plan-expense-payment-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "participant-reallocation",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "participant-reallocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "year-end-deadline-monitoring",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "year-end-deadline-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "operational-failure-detection",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "operational-failure-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "correction-calculation",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "correction-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "audit-evidence-package",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "audit-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "plan-forfeiture-analytics",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/app.config.mjs",
+      "canonical": "plan-forfeiture-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "customer-registry",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "customer-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "collection-portal",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "collection-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "document-extraction",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "document-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "jurisdiction-rules",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "jurisdiction-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "reason-validation",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "reason-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "product-eligibility",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "product-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "transaction-coverage",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "transaction-coverage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "unsupported-detection",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "unsupported-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "exposure-calculation",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "exposure-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "customer-outreach",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "customer-outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "renewal-management",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "renewal-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "erp-controls",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "erp-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "audit-sample",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "audit-sample-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "defense-package",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "defense-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "override-governance",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "override-governance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "compliance-analytics",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/app.config.mjs",
+      "canonical": "compliance-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "tax-code-normalization",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "tax-code-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "product-service-classification",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "product-service-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "use-location-determination",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "use-location-determination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "jurisdiction-rate-validation",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "jurisdiction-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "exemption-mapping",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "exemption-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "manufacturing-exemption",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "manufacturing-exemption",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "resale-exemption",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "resale-exemption",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "duplicate-accrual-detection",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "duplicate-accrual-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "vendor-tax-error-detection",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "vendor-tax-error-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "refund-statute-monitoring",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "refund-statute-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "sample-projection-control",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "sample-projection-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "claim-evidence-package",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "claim-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "refund-cash-tracking",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "refund-cash-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "entity-jurisdiction-analytics",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/app.config.mjs",
+      "canonical": "entity-jurisdiction-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "building-project-registry",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "building-project-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "ownership-eligibility",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "ownership-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "government-allocation-control",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "government-allocation-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "construction-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "construction-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "lighting-system-evidence",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "lighting-system-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "hvac-system-evidence",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "hvac-system-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "envelope-system-evidence",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "envelope-system-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "energy-model-validation",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "energy-model-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "reference-standard-mapping",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "reference-standard-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "efficiency-threshold-calculation",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "efficiency-threshold-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "placed-in-service-validation",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "placed-in-service-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "deduction-calculation",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "deduction-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "certification-evidence",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "certification-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "return-workpaper-generation",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "return-workpaper-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "building-tax-analytics",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/app.config.mjs",
+      "canonical": "building-tax-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "entity-filing-group-registry",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "entity-filing-group-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "state-rule-library",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "state-rule-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "revenue-sourcing",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "revenue-sourcing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "payroll-factor-calculation",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "payroll-factor-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "property-factor-calculation",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "property-factor-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "market-based-sourcing",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "market-based-sourcing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "throwback-throwout-rules",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "throwback-throwout-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "combined-reporting-control",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "combined-reporting-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "nol-vintage-ledger",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "nol-vintage-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "limitation-expiration-calculation",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "limitation-expiration-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "credit-inventory",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "credit-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "provision-return-reconciliation",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "provision-return-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "amended-return-opportunity",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "amended-return-opportunity",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "refund-tracking",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "refund-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "state-entity-analytics",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/app.config.mjs",
+      "canonical": "state-entity-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "carrier-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "carrier-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "service-product-classification",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "service-product-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "service-address-validation",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "service-address-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "jurisdiction-mapping",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "jurisdiction-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "federal-usf-calculation",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "federal-usf-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "state-usf-calculation",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "state-usf-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "911-surcharge-validation",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "911-surcharge-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "gross-receipts-tax-review",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "gross-receipts-tax-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "utility-user-tax-review",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "utility-user-tax-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "internet-access-exemption",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "internet-access-exemption",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "resale-exemption",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "resale-exemption",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "overcharge-calculation",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "overcharge-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "carrier-refund-request",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "carrier-refund-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "tax-authority-claim-workflow",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "tax-authority-claim-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "service-jurisdiction-analytics",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/app.config.mjs",
+      "canonical": "service-jurisdiction-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "source-ingestion",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "source-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "property-classification",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "property-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "owner-normalization",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "owner-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "jurisdiction",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "jurisdiction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "dormancy",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "dormancy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "activity-contact",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "activity-contact",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "exemptions",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "exemptions",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "due-diligence",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "due-diligence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "owner-response",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "owner-response",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "filing-calendar",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "filing-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "naupa-report",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "naupa-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "remittance",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "remittance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "audit-defense",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "audit-defense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "historical-exposure",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "historical-exposure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "ma-successor",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "ma-successor",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "voluntary-disclosure",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/app.config.mjs",
+      "canonical": "voluntary-disclosure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "investor-beneficial-owner-registry",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "investor-beneficial-owner-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "custodian-account-mapping",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "custodian-account-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "security-income-event-ingestion",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "security-income-event-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "treaty-rate-library",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "treaty-rate-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "statutory-treaty-calculation",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "statutory-treaty-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "relief-at-source-validation",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "relief-at-source-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "excess-withholding-detection",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "excess-withholding-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "tax-residency-evidence",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "tax-residency-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "power-of-attorney-control",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "power-of-attorney-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "market-filing-deadlines",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "market-filing-deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "custodian-submission-workflow",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "custodian-submission-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "tax-authority-queries",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "tax-authority-queries",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "refund-tracking",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "refund-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "currency-reconciliation",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "currency-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "country-custodian-analytics",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/app.config.mjs",
+      "canonical": "country-custodian-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "transactions",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "portfolio",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "tax-reports",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "tax-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "tax-loss-harvest",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "tax-loss-harvest",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "mining-staking",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "mining-staking",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "defi",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "defi",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "nft",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "nft",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "cross-border",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "cross-border",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/cf/tax-optimization-engine",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "tax-optimization-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/cf/predictive-tax-liability-forecasting",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-tax-liability-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/cf/defi-tax-automation",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "defi-tax-automation",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/cf/regulatory-scenario-modeling",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "regulatory-scenario-modeling",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/cf/multi-jurisdiction-tax-optimization",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "multi-jurisdiction-tax-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/missing-analyze-crypto-tax-strategy-optimize-tax-loss-harves",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "missing-analyze-crypto-tax-strategy-optimize-tax-loss-harves",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/limited-exchange-api-integrations-no-coinbase-kraken-binance",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "limited-exchange-api-integrations-no-coinbase-kraken-binance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/no-real-time-price-feed-integration",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "real-time-price-feed-integration",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/no-cpa-accountant-review-workflow",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "cpa-accountant-review-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/no-wallet-private-key-security-module",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "wallet-private-key-security-module",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/no-webhooks",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "/gap/no-search-across-transactions-surface",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "canonical": "search-across-transactions-surface",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "tax-bracket-forecaster",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "tax-bracket-forecaster",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "donation-optimizer",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "donation-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "audit-defense",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "audit-defense",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "international-tax",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "international-tax",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "earned-income-split",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "earned-income-split",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "staking-reward-automator",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "staking-reward-automator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "carbon-offset-tax-credit",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "carbon-offset-tax-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "roth-conversion-simulator",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "roth-conversion-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "auto-categorize-transactions",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "auto-categorize-transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "analyze-defi-tax-implications",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AIAdvancedPage.js",
+      "canonical": "analyze-defi-tax-implications",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "tax-planning",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "tax-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "cost-basis",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "cost-basis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "wash-sale",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "wash-sale",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "portfolio-risk",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "portfolio-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "regulatory",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "full-summary",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/AICenterPage.js",
+      "canonical": "full-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "transactions",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "portfolio",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "tax-reports",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "tax-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "defi",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "defi",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "nft",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "nft",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "sourceKey": "wash-sale-exposure",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "canonical": "wash-sale-exposure",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/interview",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "interview",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/income",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "income",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/schedule-c",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "schedule-c",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/deductions",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "deductions",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/credits",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "credits",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/dependents",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "dependents",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/scan-document",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "scan-document",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/deduction-finder",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "deduction-finder",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/audit-risk",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "audit-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/receipt-scanner",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "receipt-scanner",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/estimated-taxes",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "estimated-taxes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/calculations",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "calculations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/tax-planning",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "tax-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/state-returns",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "state-returns",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/state-tax-optimize",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "state-tax-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/k1-intake-review",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "k1-intake-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/estimated-payments-ai",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "estimated-payments-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/yoy-anomaly",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "yoy-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/filing-scenario-compare",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "filing-scenario-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/advice",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "advice",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/forms",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "forms",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/efile",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "efile",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "/pdf-export",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "canonical": "pdf-export",
+      "kind": "definition"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "backlog-tools",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "backlog-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-tax-optimization-scenarios-mfj-vs-mfs-hoh-with",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "tax-optimization-scenarios-mfj-vs-mfs-hoh-with",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-estimated-tax-planning-with-quarterly-payment-recommendations",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "estimated-tax-planning-with-quarterly-payment-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-multi-state-tax-planning-for-state-specific-deductions-and-credits",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "multi-state-tax-planning-for-state-specific-deductions-and-credits",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-document-auto-categorization-via-receipt-ocr-ml",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "document-auto-categorization-via-receipt-ocr-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-engagement-letter-e-sign-with-scope-fees",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "engagement-letter-e-sign-with-scope-fees",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "cf-irs-notice-cp-1099-letter-auto-response-drafter",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "irs-notice-cp-1099-letter-auto-response-drafter",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-state-local-tax-optimization-ai",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "state-local-tax-optimization-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-estimated-payment-planning-ai",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "estimated-payment-planning-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-automated-audit-risk-early-warning-monitor",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "automated-audit-risk-early-warning-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-e-filing-integration-efin-irs-mef",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "e-filing-integration-efin-irs-mef",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-limited-cpa-coordination-beyond-engagement-letters",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "limited-cpa-coordination-beyond-engagement-letters",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-tax-plan-comparison-standard-vs-itemized-visualizations",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "tax-plan-comparison-standard-vs-itemized-visualizations",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-year-over-year-comparison-and-anomaly-detection",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "year-over-year-comparison-and-anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-webhooks-notifications-system",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "webhooks-notifications-system",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-no-audit-log-subsystem",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "audit-log-subsystem",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "gap-limited-integrations-module-exists-but-not-deeply-wired",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "limited-integrations-module-exists-but-not-deeply-wired",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "audit-risk/analyze",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "audit-risk-analyze",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "tax-planning/generate",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "tax-planning-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "receipt-scans",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "receipt-scans",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "receipt-scans/scan",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "receipt-scans-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "estimated-taxes/calculate",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "estimated-taxes-calculate",
+      "kind": "route"
+    },
+    {
+      "project": "AiTaxPrep",
+      "sourceKey": "deduction-finder/scan",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "canonical": "receipt-scans-scan",
+      "kind": "route"
+    },
+    {
+      "project": "transfer-pricing-tax-documentation-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/transfer-pricing-tax-documentation-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "transfer-pricing-tax-documentation-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/transfer-pricing-tax-documentation-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "vat-sales-tax-compliance-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/vat-sales-tax-compliance-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "vat-sales-tax-compliance-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/vat-sales-tax-compliance-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-alcohol-excise-tax-drawback",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-alcohol-excise-tax-drawback/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-app-store-commission-tax-settlement",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-app-store-commission-tax-settlement/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-business-personal-property-tax-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-business-personal-property-tax-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-cross-border-vat-refund-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-cross-border-vat-refund-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-film-production-tax-incentive-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-film-production-tax-incentive-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-fixed-asset-depreciation-tax-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-fixed-asset-depreciation-tax-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-fleet-fuel-excise-tax-refund",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-fleet-fuel-excise-tax-refund/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-payroll-tax-credit-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-payroll-tax-credit-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-payroll-tax-notice-suta-rate-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-payroll-tax-notice-suta-rate-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-pension-benefit-overpayment-prevention",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-pension-benefit-overpayment-prevention/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-property-tax-appeal-evidence",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-property-tax-appeal-evidence/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-retirement-plan-forfeiture-allocation-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-retirement-plan-forfeiture-allocation-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-tax-exemption-certificate-control",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-sales-tax-exemption-certificate-control/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-sales-use-tax-reverse-audit-refund",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-sales-use-tax-reverse-audit-refund/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-section-179d-commercial-building-tax-deduction",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-section-179d-commercial-building-tax-deduction/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-state-tax-apportionment-nol-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-state-tax-apportionment-nol-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-telecom-tax-surcharge-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-telecom-tax-surcharge-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-unclaimed-property-escheat-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-unclaimed-property-escheat-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-withholding-tax-reclaim",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-withholding-tax-reclaim/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICryptocurrencyTaxCalculator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICryptocurrencyTaxCalculator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AiTaxPrep/client/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "register",
+      "source": "/Volumes/external/projects/AiTaxPrep",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/audit-risk/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/tax-planning/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/receipt-scans/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/receipt-scans/:id/import",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/estimated-taxes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiTaxPrep",
+      "key": "/deduction-finder/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "transfer-pricing-tax-documentation-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/transfer-pricing-tax-documentation-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "transfer-pricing-tax-documentation-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/transfer-pricing-tax-documentation-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "vat-sales-tax-compliance-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/vat-sales-tax-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "vat-sales-tax-compliance-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/vat-sales-tax-compliance-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "producer-permit-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-formula-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "production-lot-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "taxpaid-removal-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bonded-transfer-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "export-shipment-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-export-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "destruction-loss-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-and-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statute-deadline-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "drawback-claim-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-query-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-market-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "store-developer-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "application-sku-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subscription-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "store-commission-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "small-business-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subscription-rate-transition",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "in-app-purchase-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-chargeback-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "territory-tax-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "withholding-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "currency-conversion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "store-statement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-payout-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "app-territory-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-register-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-situs-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ghost-asset-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "disposed-asset-removal",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-class-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "depreciation-schedule-application",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "functional-obsolescence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "economic-obsolescence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exemption-qualification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rendition-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "assessment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "appeal-opportunity-scoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "evidence-packet-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction-asset-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entity-vat-profile",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-validity-checks",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "country-eligibility-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expense-category-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "business-purpose-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partial-deductibility-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "domestic-registration-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "original-document-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "minimum-claim-threshold",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "filing-deadline-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "portal-claim-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-authority-query-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "country-category-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction-incentive-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "production-entity-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "budget-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-residency-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-location-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "qualified-spend-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "related-party-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "financing-source-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "minimum-spend-threshold",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-rebate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-sample-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "application-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "certificate-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-transfer-monetization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "production-jurisdiction-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-register-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-project-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "placed-in-service-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-life-method-assignment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bonus-depreciation-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "section-179-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-segregation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "repair-versus-capital-determination",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partial-disposition-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retirement-disposal-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "book-to-tax-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-schedule-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amended-return-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-benefit-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entity-jurisdiction-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vehicle-equipment-master",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fuel-card-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bulk-fuel-receipt-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-assignment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "telematics-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "engine-hour-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-paid-gallon-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligible-use-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "federal-refund-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-refund-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "form-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fleet-jurisdiction-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "employer-location-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "employee-wage-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligibility-population-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "certification-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "qualified-wage-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-interaction-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "federal-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-deposit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "form-amendment-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supporting-document-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-notice-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "general-ledger-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-location-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entity-and-jurisdiction-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-register-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-and-deposit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-notice-intake",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notice-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "suta-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "experience-rating-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benefit-charge-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wage-base-and-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "multi-state-allocation-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "penalty-and-interest-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-response-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amended-return-and-refund-claim",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-case-and-credit-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-exposure-and-outcome-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-provision-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-service-history",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "compensation-averaging",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benefit-formula-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "election-option-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "beneficiary-entitlement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "life-status-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cola-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "social-security-offset",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "workers-compensation-offset",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-payment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overpayment-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recoupment-plan-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "member-appeal-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-liability-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "parcel-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "assessment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "filing-calendar",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "anomaly-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "comparable-selection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "comparable-adjustments",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "income-approach",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-approach",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "intangible-separation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "obsolescence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "appeal-opportunity-scoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "application-prep",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "evidence-exchange",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hearing-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "decision-refund",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "portfolio-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-document-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-vesting-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "termination-event-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "forfeiture-recognition",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "restoration-obligation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "forfeiture-account-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "permitted-use-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contribution-offset-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-expense-payment-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-reallocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "year-end-deadline-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "operational-failure-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "correction-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-forfeiture-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collection-portal",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "document-extraction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reason-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-coverage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unsupported-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exposure-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-outreach",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "erp-controls",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-sample-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "defense-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "override-governance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "compliance-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-code-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-service-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "use-location-determination",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exemption-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manufacturing-exemption",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resale-exemption",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-accrual-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-tax-error-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-statute-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sample-projection-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-cash-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entity-jurisdiction-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "building-project-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ownership-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "government-allocation-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "construction-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lighting-system-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hvac-system-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "envelope-system-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "energy-model-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reference-standard-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "efficiency-threshold-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "placed-in-service-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deduction-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "certification-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-workpaper-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "building-tax-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entity-filing-group-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-rule-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "revenue-sourcing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-factor-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-factor-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "market-based-sourcing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "throwback-throwout-rules",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "combined-reporting-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "nol-vintage-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "limitation-expiration-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provision-return-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amended-return-opportunity",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-entity-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-product-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-address-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "federal-usf-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-usf-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "911-surcharge-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-receipts-tax-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "utility-user-tax-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "internet-access-exemption",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resale-exemption",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overcharge-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-refund-request",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-authority-claim-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-jurisdiction-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "source-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "owner-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "jurisdiction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dormancy",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "activity-contact",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exemptions",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "due-diligence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "owner-response",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "filing-calendar",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "naupa-report",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "remittance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-defense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "historical-exposure",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ma-successor",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "voluntary-disclosure",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-beneficial-owner-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "custodian-account-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "security-income-event-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "treaty-rate-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statutory-treaty-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "relief-at-source-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "excess-withholding-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-residency-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "power-of-attorney-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "market-filing-deadlines",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "custodian-submission-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-authority-queries",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "currency-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "country-custodian-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

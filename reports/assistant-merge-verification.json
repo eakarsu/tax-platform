@@ -1,0 +1,20 @@
+{
+  "id": "tax-platform",
+  "status": "passed",
+  "previousAIEntries": 306,
+  "mergedAssistants": 8,
+  "capabilitiesMappedExactlyOnce": true,
+  "canonicalPagesAndAliases": true,
+  "combinedQuestions": true,
+  "singleProviderCall": true,
+  "exactDuplicateRemoval": true,
+  "legacyHistoryPreserved": true,
+  "followups": true,
+  "sharedRecordContext": true,
+  "assistantIsolation": true,
+  "combinedWordLimit": true,
+  "mobile": true,
+  "nonAIPopup": true,
+  "provider": "mocked",
+  "verifiedAt": "2026-09-07T20:15:53.017Z"
+}

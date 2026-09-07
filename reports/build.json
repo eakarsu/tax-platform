@@ -1,0 +1,9 @@
+{
+  "app": "tax-platform",
+  "features": 391,
+  "sourceApps": 28,
+  "calculatorEngines": 0,
+  "registryHash": "64300466e33672c3e6f3ba7c1b667ccfb189e2bb97aa3fb0211144db6bf42771",
+  "builtAt": "2026-09-07T22:05:33.155Z",
+  "status": "built"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ai-alcohol-excise-tax-drawback",
+    "name": "Alcohol excise tax drawback",
+    "sourceProject": "ai-alcohol-excise-tax-drawback",
+    "services": []
+  },
+  {
+    "id": "ai-app-store-commission-tax-settlement",
+    "name": "App store commission tax settlement",
+    "sourceProject": "ai-app-store-commission-tax-settlement",
+    "services": []
+  },
+  {
+    "id": "ai-asc-740-tax-provision",
+    "name": "Asc 740 tax provision",
+    "sourceProject": "ai-asc-740-tax-provision",
+    "services": []
+  },
+  {
+    "id": "ai-business-personal-property-tax-recovery",
+    "name": "Business personal property tax recovery",
+    "sourceProject": "ai-business-personal-property-tax-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-cross-border-vat-refund-recovery",
+    "name": "Cross border vat refund recovery",
+    "sourceProject": "ai-cross-border-vat-refund-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-film-production-tax-incentive-recovery",
+    "name": "Film production tax incentive recovery",
+    "sourceProject": "ai-film-production-tax-incentive-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-fixed-asset-depreciation-tax-recovery",
+    "name": "Fixed asset depreciation tax recovery",
+    "sourceProject": "ai-fixed-asset-depreciation-tax-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-fleet-fuel-excise-tax-refund",
+    "name": "Fleet fuel excise tax refund",
+    "sourceProject": "ai-fleet-fuel-excise-tax-refund",
+    "services": []
+  },
+  {
+    "id": "ai-global-e-invoicing-compliance",
+    "name": "Global e invoicing compliance",
+    "sourceProject": "ai-global-e-invoicing-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-payroll-tax-credit-recovery",
+    "name": "Payroll tax credit recovery",
+    "sourceProject": "ai-payroll-tax-credit-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-payroll-tax-notice-suta-rate-audit",
+    "name": "Payroll tax notice suta rate audit",
+    "sourceProject": "ai-payroll-tax-notice-suta-rate-audit",
+    "services": []
+  },
+  {
+    "id": "ai-pension-benefit-overpayment-prevention",
+    "name": "Pension benefit overpayment prevention",
+    "sourceProject": "ai-pension-benefit-overpayment-prevention",
+    "services": []
+  },
+  {
+    "id": "ai-pillar-two-global-minimum-tax",
+    "name": "Pillar two global minimum tax",
+    "sourceProject": "ai-pillar-two-global-minimum-tax",
+    "services": []
+  },
+  {
+    "id": "ai-property-tax-appeal-evidence",
+    "name": "Property tax appeal evidence",
+    "sourceProject": "ai-property-tax-appeal-evidence",
+    "services": []
+  },
+  {
+    "id": "ai-rd-tax-credit-174a-evidence-workbench",
+    "name": "Rd tax credit 174a evidence workbench",
+    "sourceProject": "ai-rd-tax-credit-174a-evidence-workbench",
+    "services": []
+  },
+  {
+    "id": "ai-rd-tax-credit-section-174a-workbench",
+    "name": "Rd tax credit section 174a workbench",
+    "sourceProject": "ai-rd-tax-credit-section-174a-workbench",
+    "services": []
+  },
+  {
+    "id": "ai-retirement-plan-forfeiture-allocation-compliance",
+    "name": "Retirement plan forfeiture allocation compliance",
+    "sourceProject": "ai-retirement-plan-forfeiture-allocation-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-sales-tax-exemption-certificate-control",
+    "name": "Sales tax exemption certificate control",
+    "sourceProject": "ai-sales-tax-exemption-certificate-control",
+    "services": []
+  },
+  {
+    "id": "ai-sales-use-tax-reverse-audit-refund",
+    "name": "Sales use tax reverse audit refund",
+    "sourceProject": "ai-sales-use-tax-reverse-audit-refund",
+    "services": []
+  },
+  {
+    "id": "ai-section-179d-commercial-building-tax-deduction",
+    "name": "Section 179d commercial building tax deduction",
+    "sourceProject": "ai-section-179d-commercial-building-tax-deduction",
+    "services": []
+  },
+  {
+    "id": "ai-state-tax-apportionment-nol-recovery",
+    "name": "State tax apportionment nol recovery",
+    "sourceProject": "ai-state-tax-apportionment-nol-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-telecom-tax-surcharge-audit",
+    "name": "Telecom tax surcharge audit",
+    "sourceProject": "ai-telecom-tax-surcharge-audit",
+    "services": []
+  },
+  {
+    "id": "ai-unclaimed-property-escheat-compliance",
+    "name": "Unclaimed property escheat compliance",
+    "sourceProject": "ai-unclaimed-property-escheat-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-withholding-tax-reclaim",
+    "name": "Withholding tax reclaim",
+    "sourceProject": "ai-withholding-tax-reclaim",
+    "services": []
+  },
+  {
+    "id": "AICryptocurrencyTaxCalculator",
+    "name": "Cryptocurrency tax calculator",
+    "sourceProject": "AICryptocurrencyTaxCalculator",
+    "services": []
+  },
+  {
+    "id": "AiTaxPrep",
+    "name": "Tax prep",
+    "sourceProject": "AiTaxPrep",
+    "services": []
+  },
+  {
+    "id": "transfer-pricing-tax-documentation-suite",
+    "name": "Transfer pricing tax documentation suite",
+    "sourceProject": "transfer-pricing-tax-documentation-suite",
+    "services": []
+  },
+  {
+    "id": "vat-sales-tax-compliance-suite",
+    "name": "Vat sales tax compliance suite",
+    "sourceProject": "vat-sales-tax-compliance-suite",
+    "services": []
+  }
+]
