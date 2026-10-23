@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-claim-eligibility",
+      "feature": "claim-eligibility",
+      "title": "Claim eligibility insight",
+      "focus": "Summarize Claim eligibility records: totals, status mix, field coverage and recent activity. Use only supplied records; this is not tax advice and does not determine eligibility — verify against current law and source evidence."
+    },
+    {
+      "id": "insight-rate-and-credit-calculation",
+      "feature": "rate-and-credit-calculation",
+      "title": "Rate and credit calculation insight",
+      "focus": "Summarize Rate and credit calculation records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent rates, credits or statutory calculations."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
